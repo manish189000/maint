@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a331a1bd.css","mappings":"AAAA,KAEI,qBAAsB,CACtB,SACJ,CACA,EACI,eACJ","sources":["index.css"],"sourcesContent":["body{\n    \n    box-sizing: border-box;\n    padding: 0;\n}\np{\n    font-size: large;\n}"],"names":[],"sourceRoot":""}
